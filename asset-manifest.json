@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/minnim1010/movie_app/static/css/main.30b35548.chunk.css",
+    "main.js": "/minnim1010/movie_app/static/js/main.9ef5d688.chunk.js",
+    "main.js.map": "/minnim1010/movie_app/static/js/main.9ef5d688.chunk.js.map",
+    "runtime-main.js": "/minnim1010/movie_app/static/js/runtime-main.e80e715c.js",
+    "runtime-main.js.map": "/minnim1010/movie_app/static/js/runtime-main.e80e715c.js.map",
+    "static/js/2.54a88abd.chunk.js": "/minnim1010/movie_app/static/js/2.54a88abd.chunk.js",
+    "static/js/2.54a88abd.chunk.js.map": "/minnim1010/movie_app/static/js/2.54a88abd.chunk.js.map",
+    "index.html": "/minnim1010/movie_app/index.html",
+    "precache-manifest.67b80099ac817add6882fdf352b4bfbf.js": "/minnim1010/movie_app/precache-manifest.67b80099ac817add6882fdf352b4bfbf.js",
+    "service-worker.js": "/minnim1010/movie_app/service-worker.js",
+    "static/css/main.30b35548.chunk.css.map": "/minnim1010/movie_app/static/css/main.30b35548.chunk.css.map",
+    "static/js/2.54a88abd.chunk.js.LICENSE.txt": "/minnim1010/movie_app/static/js/2.54a88abd.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e80e715c.js",
+    "static/js/2.54a88abd.chunk.js",
+    "static/css/main.30b35548.chunk.css",
+    "static/js/main.9ef5d688.chunk.js"
+  ]
+}
